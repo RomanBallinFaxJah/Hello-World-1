@@ -1,1 +1,5 @@
-button.addEventListener('click', function () {alert('Hello World!')})
+button.addEventListener("click", myFunction);
+
+function myFunction() {
+  alert ("Hello World!");
+}
